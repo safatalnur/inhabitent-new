@@ -1,0 +1,8 @@
+bedrock/current.sql
+
+#Ignore OS files
+.DS_Store
+
+#Deployer
+bedrock/deploy.php
+bedrock/deploy.yml
